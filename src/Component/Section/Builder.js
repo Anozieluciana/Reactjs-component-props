@@ -40,7 +40,7 @@ const Con2 = styled.div`
         border: solid 20px;
         border-color:navy;
         margin: 30px;
-        border-radius: 2px;
+        border-radius: 3px;
 `
 
 
